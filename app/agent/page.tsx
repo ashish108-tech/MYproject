@@ -1,0 +1,1 @@
+export default function Agent(){return <main className="mx-auto max-w-5xl px-4 py-16"><h1 className="text-3xl font-bold">Collection Agent Portal</h1><p className="mt-3 text-slate-600">Foundation route created. Collection workflows arrive in later phases.</p></main>}
